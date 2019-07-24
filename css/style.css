@@ -13,6 +13,14 @@ body {
   font-family: "Open Sans", sans-serif;
 }
 
+.pop {
+  cursor: pointer;
+}
+
+.history {
+  cursor: pointer;
+}
+
 a {
   color: #e34619;
 }

@@ -86,25 +86,25 @@
           <div class="col-lg-6 content order-lg-1 order-2">
             <h2 class="title">Few Words About MAST</h2>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+            MAST is a youth led registered Trust founded in 2016 as a platform where students in high schools and out of school memebers of the Victoria Falls community can discuss their sexual and reproductive health issues. 
             </p>
 
             <div class="icon-box wow fadeInUp">
               <div class="icon"><i class="fa fa-shopping-bag"></i></div>
               <h4 class="title"><a href="">Mission</a></h4>
-              <p class="description">Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi</p>
+              <p class="description">MAST seeks to enhance SRHR for students, youth and women in Zimbabwe and the SADC region to lead healthy lives.</p>
             </div>
 
             <div class="icon-box wow fadeInUp" data-wow-delay="0.2s">
               <div class="icon"><i class="fa fa-photo"></i></div>
               <h4 class="title"><a href="">Vision</a></h4>
-              <p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
+              <p class="description">A Southern Africa where students, youth and women enjoy their full sexual and reproductive health rights without limmitations</p>
             </div>
 
             <div class="icon-box wow fadeInUp" data-wow-delay="0.4s">
               <div class="icon"><i class="fa fa-bar-chart"></i></div>
               <h4 class="title"><a href="">Values</a></h4>
-              <p class="description">Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat tarad limino ata</p>
+              <p class="description">Efficiency, Inclusivity, Integrity, Responsiveness & Professionalism</p>
             </div>
 
           </div>
@@ -126,7 +126,7 @@
                       <p class="cta-text"> Mosi High School in Victoria Falls has had a vibrant HIV/AIDS club which has been active in national quiz competitions. The club has produced teams that have done well at the national level. This provided an incentive to the club to expand its parameters to be ambassadors of...... </p>
                   </div>
                   <div class="col-lg-3 cta-btn-container text-center">
-                      <a class="cta-btn align-middle" href="#">Read More</a>
+                      <div class="cta-btn align-middle history" >Read More</div>
                   </div>
               </div>
 
@@ -227,124 +227,124 @@
         </div>
 
         <div class="row" id="portfolio-wrapper">
-          <div class="col-lg-3 col-md-6 portfolio-item filter-app">
-            <a href="">
+          <div class="col-lg-3 col-md-6 portfolio-item filter-app pop">
+            
               <img src="img/portfolio/app1.jpg" alt="">
               <div class="details">
-                <h4>App 1</h4>
-                <span>Alored dono par</span>
+                <h4>Victoria Falls Rural Info Centre</h4>
+                <span>Mpisi Village</span>
               </div>
-            </a>
+            
           </div>
 
-          <div class="col-lg-3 col-md-6 portfolio-item filter-web">
-            <a href="">
+          <div class="col-lg-3 col-md-6 portfolio-item filter-web pop">
+            
               <img src="img/portfolio/web2.jpg" alt="">
               <div class="details">
-                <h4>Web 2</h4>
-                <span>Alored dono par</span>
+                <h4>Mosi High School</h4>
+                <span> 2016 National AIDS Quiz Competitions</span>
               </div>
-            </a>
+        
           </div>
 
-          <div class="col-lg-3 col-md-6 portfolio-item filter-app">
-            <a href="">
+          <div class="col-lg-3 col-md-6 portfolio-item filter-app pop">
+         
               <img src="img/portfolio/app3.jpg" alt="">
               <div class="details">
-                <h4>App 3</h4>
-                <span>Alored dono par</span>
+                 <h4>Mosi High School</h4>
+                <span> 2016 National AIDS Quiz Competitions</span>
               </div>
-            </a>
+    
           </div>
 
-          <div class="col-lg-3 col-md-6 portfolio-item filter-card">
-            <a href="">
+          <div class="col-lg-3 col-md-6 portfolio-item filter-card pop">
+           
               <img src="img/portfolio/card1.jpg" alt="">
               <div class="details">
-                <h4>Card 1</h4>
-                <span>Alored dono par</span>
+                <h4>Victoria Falls Rural Info Centre</h4>
+                <span>Mpisi Village</span>
               </div>
-            </a>
+         
           </div>
 
-          <div class="col-lg-3 col-md-6 portfolio-item filter-card">
-            <a href="">
+          <div class="col-lg-3 col-md-6 portfolio-item filter-card pop">
+            
               <img src="img/portfolio/card2.jpg" alt="">
               <div class="details">
-                <h4>Card 2</h4>
-                <span>Alored dono par</span>
+                <h4>Victoria Falls Rural Info Centre</h4>
+                <span>Mpisi Village</span>
               </div>
-            </a>
+ 
           </div>
 
-          <div class="col-lg-3 col-md-6 portfolio-item filter-web">
-            <a href="">
+          <div class="col-lg-3 col-md-6 portfolio-item filter-web pop">
+            
               <img src="img/portfolio/web3.jpg" alt="">
               <div class="details">
-                <h4>Web 3</h4>
-                <span>Alored dono par</span>
+                <h4>Makwa Secondary School</h4>
+                <span>Stationery Distribution (2016)</span>
               </div>
-            </a>
+     
           </div>
 
-          <div class="col-lg-3 col-md-6 portfolio-item filter-card">
-            <a href="">
+          <div class="col-lg-3 col-md-6 portfolio-item filter-card pop">
+            
               <img src="img/portfolio/card3.jpg" alt="">
               <div class="details">
-                <h4>Card 3</h4>
-                <span>Alored dono par</span>
+                <h4>Mosi High</h4>
+                <span>AIDS Club</span>
               </div>
-            </a>
+    
           </div>
 
-          <div class="col-lg-3 col-md-6 portfolio-item filter-app">
-            <a href="">
+          <div class="col-lg-3 col-md-6 portfolio-item filter-app pop">
+            
               <img src="img/portfolio/app2.jpg" alt="">
               <div class="details">
-                <h4>App 2</h4>
-                <span>Alored dono par</span>
+                <h4>Herentials College Vic Falls</h4>
+                <span>AIDS club (2017)</span>
               </div>
-            </a>
+            
           </div>
 
-          <div class="col-lg-3 col-md-6 portfolio-item filter-logo">
-            <a href="">
+          <div class="col-lg-3 col-md-6 portfolio-item filter-logo pop">
+            
               <img src="img/portfolio/logo1.jpg" alt="">
               <div class="details">
-                <h4>Logo 1</h4>
-                <span>Alored dono par</span>
+                <h4>Mosi High at Mpisi Village</h4>
+                <span>AIDS Club</span>
               </div>
-            </a>
+            
           </div>
 
-          <div class="col-lg-3 col-md-6 portfolio-item filter-logo">
-            <a href="">
+          <div class="col-lg-3 col-md-6 portfolio-item filter-logo pop">
+            
               <img src="img/portfolio/logo3.jpg" alt="">
               <div class="details">
-                <h4>Logo 3</h4>
-                <span>Alored dono par</span>
+                <h4>Mosi High</h4>
+                <span>Mpisi Cultural Village</span>
               </div>
-            </a>
+         
           </div>
 
-          <div class="col-lg-3 col-md-6 portfolio-item filter-web">
-            <a href="">
+          <div class="col-lg-3 col-md-6 portfolio-item filter-web pop">
+            
               <img src="img/portfolio/web1.jpg" alt="">
               <div class="details">
-                <h4>Web 1</h4>
-                <span>Alored dono par</span>
+              <h4>Mosi High at Mpisi Village</h4>
+                <span>AIDS Club</span>
               </div>
-            </a>
+         
           </div>
 
-          <div class="col-lg-3 col-md-6 portfolio-item filter-logo">
-            <a href="">
+          <div class="col-lg-3 col-md-6 portfolio-item filter-logo pop">
+            
               <img src="img/portfolio/logo2.jpg" alt="">
               <div class="details">
-                <h4>Logo 2</h4>
-                <span>Alored dono par</span>
+              <h4>Mosi High at Mpisi Village</h4>
+                <span>Condom Program</span>
               </div>
-            </a>
+            
           </div>
 
         </div>
@@ -365,8 +365,8 @@
           <div class="col-lg-3 col-md-6">
             <div class="member">
               <div class="pic"><img src="img/team-1.jpg" alt=""></div>
-              <h4>Walter White</h4>
-              <span>Chief Executive Officer</span>
+              <h4>Evans Irvine Makoni</h4>
+              <span>Excutive Director</span>
               <div class="social">
                 <a href=""><i class="fa fa-twitter"></i></a>
                 <a href=""><i class="fa fa-facebook"></i></a>
@@ -379,8 +379,8 @@
           <div class="col-lg-3 col-md-6">
             <div class="member">
               <div class="pic"><img src="img/team-2.jpg" alt=""></div>
-              <h4>Sarah Jhinson</h4>
-              <span>Product Manager</span>
+              <h4>Tinashe Mafi</h4>
+              <span>Public Health Professional</span>
               <div class="social">
                 <a href=""><i class="fa fa-twitter"></i></a>
                 <a href=""><i class="fa fa-facebook"></i></a>
@@ -393,8 +393,8 @@
           <div class="col-lg-3 col-md-6">
             <div class="member">
               <div class="pic"><img src="img/team-3.jpg" alt=""></div>
-              <h4>William Anderson</h4>
-              <span>CTO</span>
+              <h4>Fadziso Abraham Dupwa</h4>
+              <span>Environmental Health Scientist</span>
               <div class="social">
                 <a href=""><i class="fa fa-twitter"></i></a>
                 <a href=""><i class="fa fa-facebook"></i></a>
@@ -407,8 +407,8 @@
           <div class="col-lg-3 col-md-6">
             <div class="member">
               <div class="pic"><img src="img/team-4.jpg" alt=""></div>
-              <h4>Amanda Jepson</h4>
-              <span>Accountant</span>
+              <h4>Tatenda Makuzha</h4>
+              <span>Trustee</span>
               <div class="social">
                 <a href=""><i class="fa fa-twitter"></i></a>
                 <a href=""><i class="fa fa-facebook"></i></a>
@@ -444,24 +444,24 @@
             <div class="info">
               <div>
                 <i class="fa fa-map-marker"></i>
-                <p>A108 Adam Street<br>New York, NY 535022</p>
+                <p>617 Nguhwuma Crescent, Falls View <br> Victoria Falls Zimbabwe</p>
               </div>
 
               <div>
                 <i class="fa fa-envelope"></i>
-                <p>info@example.com</p>
+                <p>info@mast.org</p>
               </div>
 
               <div>
                 <i class="fa fa-phone"></i>
-                <p>+1 5589 55488 55s</p>
+                <p>+263776080599</p>
               </div>
             </div>
 
             <div class="social-links">
               <a href="#" class="twitter"><i class="fa fa-twitter"></i></a>
-              <a href="#" class="facebook"><i class="fa fa-facebook"></i></a>
-              <a href="#" class="instagram"><i class="fa fa-instagram"></i></a>
+              <a href="https://www.facebook.com/mosiadvocates/" class="facebook"><i class="fa fa-facebook"></i></a>
+              <a href="https://www.instagram.com/mosiadvocates/" class="instagram"><i class="fa fa-instagram"></i></a>
               <a href="#" class="google-plus"><i class="fa fa-google-plus"></i></a>
               <a href="#" class="linkedin"><i class="fa fa-linkedin"></i></a>
             </div>
@@ -513,7 +513,7 @@
 
     <div class="container">
       <div class="copyright">
-        &copy; Copyright <strong>Regna</strong>. All Rights Reserved
+        &copy; Copyright <strong>MAST</strong>. All Rights Reserved
       </div>
       <div class="credits">
         <!--
@@ -522,10 +522,44 @@
           Licensing information: https://bootstrapmade.com/license/
           Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=Regna
         -->
-        Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+        Designed by <a href="http://geointel.co.zw/">GeoIntel</a>
       </div>
     </div>
   </footer><!-- #footer -->
+
+
+  <!-- image modal start -->
+
+  <div class="modal fade" id="imagemodal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">              
+      <div class="modal-body">
+      	<button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+        <img src="" class="imagepreview" style="width: 100%;" >
+      </div>
+    </div>
+  </div>
+</div>  
+
+  <!-- image modal end -->
+
+  <!-- history modal -->
+
+  <div class="modal fade" id="history" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">              
+      <div class="modal-body">
+      	<button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+         Mosi High School in Victoria Falls has had a vibrant HIV/AIDS club which has been active in national quiz competitions.
+          The club has produced teams that have done well at the national level. This provided an incentive to the club to expand 
+          its parameters to be ambassadors of SRHR HIV/AIDS and GBV knowledge dissemination in the Victoria Falls community and beyond.
+          The first step to expansion was inviting and partnering with out of school youth who are experts in Sexual and Reproductive Health Rights (SRHR) who have worked with a variety of local and international AIDS Service Organizations. This partnership began with an SRHR community dialogue in form of a workshop which was held on the 2nd to the 4thof May at Mawuya Lodge in Victoria Falls Zimbabwe, followed by an   SRHR, HIV Counselling and   testing campaign at Invuvu Rest Camp in Victoria Falls Zimbabwe on the 29th of April 2017. A series of dialogues were held with different youths from different sectors and schools including Herentals College and Mosi High. Spear-heading all these community dialogues and awareness campaigns was Evans Irvine Makoni a Youth Advocate on SRHR and Community Development from Victoria falls Zimbabwe. He identified the SRHR knowledge gap including other developmental barriers for young people within the Victoria Falls community. Having noticed the impact that community dialogues were having in bridging the information gap plus addressing developmental issues that are affecting the youth, Mr Irvine Makoni was inspired to start a community based initiative whose overall goal is to implement developmental programs that alleviate poverty and bridge the SRHR information gap within the youths in an effort to reduce the transmission of HIV and STIs, through a Multi Sectorial Response within the country and beyond the Zimbabwean boarders. The Youth Network then formed a non-profit organization named MOSI ADVOCATES on SRHR TRUST (MAST) based at Mpisi Village, Chidobe Ward 2,  Victoria Falls rural community in Zimbabwe. Victoria Falls is one of the seven wonders of the world and attracts a lot of tourists which is one of our target group on information dissemination of HIV - AIDS. Another aim is to engage some of the tourists in our volunteer programs so as to share different ideas on how to combat these issues. The organization is currently operating in communities within the North-West region of Zimbabwe and it aspires to expand its territory to other regions of Zimbabwe. 
+      </div>
+    </div>
+  </div>
+</div> 
+
+  <!-- read-more modal end -->
 
   <a href="#" class="back-to-top"><i class="fa fa-chevron-up"></i></a>
 

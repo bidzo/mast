@@ -126,5 +126,14 @@ jQuery(document).ready(function ($) {
   });
 
   // custom code
+  $('.pop').on('click', function() {
+    $('.imagepreview').attr('src', $(this).find('img').attr('src'));
+    $('#imagemodal').modal('show');   
+  });	
+
+  $('.history').on('click', function() {
+    
+    $('#history').modal('show');   
+  });	
 
 });
